@@ -11,4 +11,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-cardoso/)
 [![Hotmail](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Microsoft&logoColor=white)](mailto:cardosoramonbarbosa@hotmail.com)
 #
-<img width="55%" align="left" alt="Luan Almeida's github stats" src="https://github-readme-stats.vercel.app/api?username=RamonCardosoBarbosa&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
+<img width="55%" align="left" alt="Ramon Cardoso's github stats" src="https://github-readme-stats.vercel.app/api?username=RamonCardosoBarbosa&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
+
+<img width="55%" align="left" alt="Ramon Cardoso's github stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=RamonCardosoBarbosa" />
